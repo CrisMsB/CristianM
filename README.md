@@ -1,9 +1,10 @@
 # 💫 Sobre:
 ### Olá, me chamo Cristian Mariano e sejam bem-vindos ao meu perfil GitHub !!! 
 
-😁<br><br><br>📖 Eu sou estudante em ADS na faculdade Cruzeiro do Sul, também faço nível técnico em Desenvolvimento de Sistemas no IFSC.<br>Estou na terceira fase de ambos os cursos; <br><br>
+###😁<br><br>
+###📖 Eu sou estudante em ADS na faculdade Cruzeiro do Sul, também faço nível técnico em Desenvolvimento de Sistemas no IFSC.<br>Estou na terceira fase de ambos os cursos;<br><br>
 
-❓ Algumas curiosidades sobre a minha pessoa: {Animais de estimação | Cinema e Animação | Esportes | Jogos | Motovelocidade};
+###❓Algumas curiosidades sobre a minha pessoa: {Animais de estimação | Cinema e Animação | Esportes | Jogos | Motovelocidade};
 
 
 ## 🌐 Socials:
